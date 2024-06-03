@@ -1,0 +1,72 @@
+baseURL: https://snapdancedads.ca/
+languageCode: en-us
+title: Snap Dance Dads
+theme: ananke
+publishDir: public
+MetaDataFormat: yaml
+DefaultContentLanguage: en
+# Paginate: 3
+enableRobotsTXT: true
+
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml
+params:
+  # background_color_class: "bg-red"
+  # favicon: img/favicon/favicon-32x32.png
+  defaultKeywords:
+    - snap dance dads
+    - cochrane
+    - alberta
+    - calgary
+    - snap dance studios
+  email: info@snapdancedads.ca
+  # recent_posts_number: 3
+  logo: img/common/Logo-02.png
+  body_classes: avenir bg-near-white
+  post_content_classes: avenir
+  get_involved:
+    enable: true
+menu:
+  main:
+    - name: News
+      weight: 10
+      identifier: post
+      url: /post/
+    - name: Schedule
+      weight: 15
+      identifier: schedule
+      url: /schedule/
+    - name: About
+      weight: 20
+      identifier: about
+      url: /about/
+    - name: Our Curriculum
+      weight: 30
+      identifier: curriculum
+      url: /curriculum/
+    - name: Contact
+      weight: 50
+      identifier: contact
+      url: /contact/
+    - weight: 10
+      parent: about
+      name: Code of Conduct
+      identifier: conduct
+      url: /about/conduct/
+    - weight: 20
+      parent: about
+      name: Our Team
+      identifier: team
+      url: /about/team/
+    - weight: 10
+      parent: schedule
+      name: Events
+      identifier: events
+      url: /schedule/events/
+    - weight: 20
+      parent: schedule
+      name: General Meetings
+      identifier: general-meetings
+      url: /schedule/general-meetings/
