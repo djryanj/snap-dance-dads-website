@@ -32,8 +32,8 @@ menu:
   main:
     - name: News
       weight: 10
-      identifier: post
-      url: /post/
+      identifier: news
+      url: /news/
     - name: Schedule
       weight: 15
       identifier: schedule
@@ -62,9 +62,9 @@ menu:
       url: /about/team/
     - weight: 10
       parent: schedule
-      name: Events
-      identifier: events
-      url: /schedule/events/
+      name: 2024-2025 Events
+      identifier: 2024-2025-events
+      url: /schedule/events/2024-2025
     - weight: 20
       parent: schedule
       name: General Meetings

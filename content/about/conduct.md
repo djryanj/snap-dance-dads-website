@@ -4,67 +4,114 @@ draft: false
 type: page
 ---
 
+## Our Pledge
+
 As parents, siblings, dancers, and participants in the Snap Dance Dads ("SDD"), Snap Parents' Association ("SPA") and the larger dance community around the world, and in the interest of fostering an open and welcoming community, we pledge to respect all people who participate or contribute through attending events or engaging in other community activities.
 
 We are committed to making participation in the Snap Dance Dads community a harassment-free experience for everyone, regardless of age, body size, caste, disability, ethnicity, level of experience, family status, gender, gender identity and expression, marital status, military or veteran status, nationality, personal appearance, race, religion, sexual orientation, socioeconomic status, tribe, or any other dimension of diversity.
 
-# Scope
+## Our Standards
 
-This code of conduct applies:
-
-- within Snap Dance Studios facilities,
-- within community spaces,
-- in other spaces when an individual SDD community participant's words or actions are directed at or are about an SDD event, the SDD community, or another SDD community participant.
-
-# Our Standards
-
-The SDD Community is open, inclusive and respectful. Every member of our community has the right to have their identity respected.
-
-Examples of behavior that contributes to a positive environment include but are not limited to:
+Examples of behavior that contributes to a positive environment for our
+community include:
 
 - Demonstrating empathy and kindness toward other people
 - Being respectful of differing opinions, viewpoints, and experiences
 - Giving and gracefully accepting constructive feedback
-- Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
-- Focusing on what is best not just for us as individuals, but for the overall community
-- Using welcoming and inclusive language
+- Accepting responsibility and apologizing to those affected by our mistakes,
+  and learning from the experience
+- Focusing on what is best not just for us as individuals, but for the overall
+  community
 
-Examples of unacceptable behavior include but are not limited to:
+Examples of unacceptable behavior include:
 
-- The use of sexualized language or imagery
+- The use of sexualized language or imagery, and sexual attention or advances of
+  any kind
 - Trolling, insulting or derogatory comments, and personal or political attacks
-- Public or private harassment in any form
-- Publishing others' private information, such as a physical or email address, without their explicit permission
-- Violence, threatening violence, or encouraging others to engage in violent behavior
-- Stalking or following someone without their consent
-- Unwelcome physical contact
-- Unwelcome sexual or romantic attention or advances
-- Other conduct which could reasonably be considered inappropriate in a professional setting
+- Public or private harassment
+- Publishing others' private information, such as a physical or email address,
+  without their explicit permission
+- Other conduct which could reasonably be considered inappropriate in a
+  professional setting
 
-The following behaviors are also prohibited:
+## Enforcement Responsibilities
 
-- Providing knowingly false or misleading information in connection with a Code of Conduct investigation or otherwise intentionally tampering with an investigation.
-- Retaliating against a person because they reported an incident or provided information about an incident as a witness.
+Community leaders are responsible for clarifying and enforcing our standards of
+acceptable behavior and will take appropriate and fair corrective action in
+response to any behavior that they deem inappropriate, threatening, offensive,
+or harmful.
 
-SDD Coordinators have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct. By adopting this Code of Conduct, project maintainers commit themselves to fairly and consistently applying these principles to every aspect of managing a SDD project. Project maintainers who do not follow or enforce the Code of Conduct may be temporarily or permanently removed from the project team.
+Community leaders have the right and responsibility to remove, edit, or reject
+comments, commits, code, wiki edits, issues, and other contributions that are
+not aligned to this Code of Conduct, and will communicate reasons for moderation
+decisions when appropriate.
 
-# Reporting
+## Scope
 
-For incidents occurring in the Kubernetes community, contact the Kubernetes Code of Conduct Committee via conduct@kubernetes.io. You can expect a response within three business days.
+This Code of Conduct applies within all community spaces, and also applies when
+an individual is officially representing the community in public spaces.
+Examples of representing our community include using an official email address,
+posting via an official social media account, or acting as an appointed
+representative at an online or offline event.
 
-For other projects, or for incidents that are project-agnostic or impact multiple SDD projects, please contact the SDD Code of Conduct Committee via conduct@SDD.io. Alternatively, you can contact any of the individual members of the SDD Code of Conduct Committee to submit your report. For more detailed instructions on how to submit a report, including how to submit a report anonymously, please see our Incident Resolution Procedures. You can expect a response within three business days.
+## Enforcement
 
-For incidents occurring at SDD event that is produced by the Linux Foundation, please contact eventconduct@SDD.io.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported to the community leaders responsible for enforcement at
+info@snapdancedads.ca and snapparents@gmail.com.
+All complaints will be reviewed and investigated promptly and fairly.
 
-# Enforcement
+All community leaders are obligated to respect the privacy and security of the
+reporter of any incident.
 
-Upon review and investigation of a reported incident, the CoC response team that has jurisdiction will determine what action is appropriate based on this Code of Conduct and its related documentation.
-For information about which Code of Conduct incidents are handled by project leadership, which incidents are handled by the SDD Code of Conduct Committee, and which incidents are handled by the Linux Foundation (including its events team), see our Jurisdiction Policy.
+## Enforcement Guidelines
 
-# Amendments
+Community leaders will follow these Community Impact Guidelines in determining
+the consequences for any action they deem in violation of this Code of Conduct:
 
-Consistent with the SDD Charter, any substantive changes to this Code of Conduct must be approved by the Technical Oversight Committee.
+### 1. Correction
 
-# Acknowledgements
+**Community Impact**: Use of inappropriate language or other behavior deemed
+unprofessional or unwelcome in the community.
 
-This Code of Conduct is adapted from the Contributor Covenant (http://contributor-covenant.org), version 2.0 available at http://contributor-covenant.org/version/2/0/code_of_conduct/
+**Consequence**: A private, written warning from community leaders, providing
+clarity around the nature of the violation and an explanation of why the
+behavior was inappropriate. A public apology may be requested.
+
+### 2. Warning
+
+**Community Impact**: A violation through a single incident or series of
+actions.
+
+**Consequence**: A warning with consequences for continued behavior. No
+interaction with the people involved, including unsolicited interaction with
+those enforcing the Code of Conduct, for a specified period of time. This
+includes avoiding interactions in community spaces as well as external channels
+like social media. Violating these terms may lead to a temporary or permanent
+ban.
+
+### 3. Temporary Ban
+
+**Community Impact**: A serious violation of community standards, including
+sustained inappropriate behavior.
+
+**Consequence**: A temporary ban from any sort of interaction or public
+communication with the community for a specified period of time. No public or
+private interaction with the people involved, including unsolicited interaction
+with those enforcing the Code of Conduct, is allowed during this period.
+Violating these terms may lead to a permanent ban.
+
+### 4. Permanent Ban
+
+**Community Impact**: Demonstrating a pattern of violation of community
+standards, including sustained inappropriate behavior, harassment of an
+individual, or aggression toward or disparagement of classes of individuals.
+
+**Consequence**: A permanent ban from any sort of public interaction within the
+community.
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+version 2.1, available at
+[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
