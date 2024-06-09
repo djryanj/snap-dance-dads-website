@@ -1,13 +1,19 @@
 ---
 title: "Snap Dance Dads"
 draft: false
+description: "A place for every parent."
+type: page
 ---
 
 # Coming Soon
 
-Welcome to snapdancedads.ca, the website for Snap Dance Dads. This website is under construction.
+This website is under construction. When completed, you will find information on Snap Dance Dads, including our curriculum, events schedule, code of conduct, and more.
 
-Please see our [About](/about/) page to learn what this site is about.
+---
+
+Snap Dance Dads is an **inclusive** parent group focused on teaching skills and fostering connections with our dancers. Although we _are_ targeting Dads, **everyone** is welcome.
+
+Please see our [About](/about/) page to learn more.
 
 If you would like to contact us in the meantime, you can do so with the form below.
 

@@ -2,6 +2,7 @@
 title: "About"
 draft: false
 type: page
+description: "A place for every parent."
 ---
 
 # Snap Dance Dads
