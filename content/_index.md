@@ -15,6 +15,6 @@ Snap Dance Dads is an **inclusive** parent group focused on teaching skills and 
 
 Please see our [About](/about/) page to learn more.
 
-If you would like to contact us in the meantime, you can do so with the form below.
+If you would like to contact us prior to the launch of the website, you can do so with the form below.
 
 {{< form-contact action="https://formspree.io/f/xpzvgrqo" >}}

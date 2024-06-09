@@ -1,3 +1,6 @@
+article h1 {
+  text-align: center;
+}
 div.card-body img {
     max-width: 12rem !important;
     display: block;
