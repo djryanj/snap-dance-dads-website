@@ -1,7 +1,6 @@
 ---
 title: "About"
 draft: false
-type: page
 ---
 
 # Snap Dance Dads

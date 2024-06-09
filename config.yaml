@@ -28,6 +28,9 @@ params:
   post_content_classes: avenir
   get_involved:
     enable: true
+  ananke_socials:
+  - name: github
+    url: https://github.com/djryanj/snap-dance-dads-website
 menu:
   main:
     - name: News
