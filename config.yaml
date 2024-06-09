@@ -23,7 +23,7 @@ params:
     - snap dance studios
   email: info@snapdancedads.ca
   # recent_posts_number: 3
-  logo: img/common/Logo-02.png
+  # logo: img/common/Logo-02.png
   body_classes: avenir bg-near-white
   post_content_classes: avenir
   get_involved:
@@ -31,45 +31,45 @@ params:
   ananke_socials:
   - name: github
     url: https://github.com/djryanj/snap-dance-dads-website
-menu:
-  main:
-    - name: News
-      weight: 10
-      identifier: news
-      url: /news/
-    - name: Schedule
-      weight: 15
-      identifier: schedule
-      url: /schedule/
-    - name: About
-      weight: 20
-      identifier: about
-      url: /about/
-    - name: Our Curriculum
-      weight: 30
-      identifier: curriculum
-      url: /curriculum/
-    - name: Contact
-      weight: 50
-      identifier: contact
-      url: /contact/
-    - weight: 10
-      parent: about
-      name: Code of Conduct
-      identifier: conduct
-      url: /about/conduct/
-    - weight: 20
-      parent: about
-      name: Our Team
-      identifier: team
-      url: /about/team/
-    - weight: 10
-      parent: schedule
-      name: 2024-2025 Events
-      identifier: 2024-2025-events
-      url: /schedule/events/2024-2025
-    - weight: 20
-      parent: schedule
-      name: General Meetings
-      identifier: general-meetings
-      url: /schedule/general-meetings/
+# menu:
+#   main:
+#     - name: News
+#       weight: 10
+#       identifier: news
+#       url: /news/
+#     - name: Schedule
+#       weight: 15
+#       identifier: schedule
+#       url: /schedule/
+#     - name: About
+#       weight: 20
+#       identifier: about
+#       url: /about/
+#     - name: Our Curriculum
+#       weight: 30
+#       identifier: curriculum
+#       url: /curriculum/
+#     - name: Contact
+#       weight: 50
+#       identifier: contact
+#       url: /contact/
+#     - weight: 10
+#       parent: about
+#       name: Code of Conduct
+#       identifier: conduct
+#       url: /about/conduct/
+#     - weight: 20
+#       parent: about
+#       name: Our Team
+#       identifier: team
+#       url: /about/team/
+#     - weight: 10
+#       parent: schedule
+#       name: 2024-2025 Events
+#       identifier: 2024-2025-events
+#       url: /schedule/events/2024-2025
+#     - weight: 20
+#       parent: schedule
+#       name: General Meetings
+#       identifier: general-meetings
+#       url: /schedule/general-meetings/
