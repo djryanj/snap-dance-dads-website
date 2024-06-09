@@ -1,11 +1,12 @@
 ---
 title: "About"
 draft: false
+type: page
 ---
 
 # Snap Dance Dads
 
-The Snap Dance Dads (SDD) is a group of dads (and whomever else wants to join, [see below](#dads-only)) whose kids dance at [Snap Dance Studios](https://snapdancestudios.com/) in Cochrane, Alberta, Canada. It is an initiative of the Snap Parents' Association started by Ryan Jacobs in 2024. Ryan is also the current [Coordinator](/about/team/).
+The Snap Dance Dads (SDD) is a group of dads (and whomever else wants to join, [see below](#dads-only)) whose kids dance at [Snap Dance Studios](https://snapdancestudios.com/) in Cochrane, Alberta, Canada. It is an initiative of the Snap Parents' Association started by Ryan Jacobs in 2024. Ryan is also expected to be named Coordinator.
 
 The initiative was begun as a way to encourage the dancers at Snap Dance Studios's dads to become more involved in the incredible sport of dance that their kids pour so much time and energy into.
 
@@ -19,4 +20,4 @@ At Snap Dance Dads, we believe that dance families need what dads can bring, and
 
 In short: **no**.
 
-While the name of the initative was chosen specifically to encourage dads (who we see as being underrepresented in the world of dance) and much of [what we do](/curriculum/) is focused on teaching skills such as hair and makeup most men don't possess, **we are not exclusively dads-only**. Anyone is welcome to our events: brothers, sisters, moms, dads, grandparents, friends, so long as they are part of their dancers' community of people and agree to abide by our [Code of Conduct](/about/conduct/).
+While the name of the initative was chosen specifically to encourage dads (who we see as being underrepresented in the world of dance) and much of what we plan to do is focused on teaching skills such as hair and makeup most men don't possess, **we are not exclusively dads-only**. Anyone is welcome to our events: brothers, sisters, moms, dads, grandparents, friends, so long as they are part of their dancers' community of people and agree to abide by our Code of Conduct.
