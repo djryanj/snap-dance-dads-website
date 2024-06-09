@@ -11,7 +11,7 @@ This website is under construction. When completed, you will find information on
 
 ---
 
-Snap Dance Dads is an **inclusive** parent group focused on teaching skills and fostering connections with our dancers. Although we _are_ targeting Dads, **everyone** is welcome.
+Snap Dance Dads is an **inclusive** parent group focused on teaching skills and fostering connections with our dancers who dance at [Snap Dance Studios](https://snapdancestudios.com) in Cochrane, Alberta, Canada. Although we _are_ targeting Dads, **everyone** is welcome.
 
 Please see our [About](/about/) page to learn more.
 
